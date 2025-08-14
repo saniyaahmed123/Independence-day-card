@@ -4,7 +4,7 @@ A responsive and interactive **Independence Day greeting card** for Pakistan, bu
 It celebrates Pakistan's culture, heritage, and spirit with animations, themed graphics, and background audio.
 
 ## 🎥 Live Demo
-[Click here to view the Independence Day Card on Netlify](git@github.com:saniyaahmed123/Independence-day-card.git)
+[Click here to view the Independence Day Card on Netlify](https://independace-day-card.netlify.app/)
 
 ## ✨ Features
 - 🎥 **Background** showcasing Pakistani culture.
