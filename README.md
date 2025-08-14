@@ -9,9 +9,7 @@ It celebrates Pakistan's culture, heritage, and spirit with animations, themed g
 ## ✨ Features
 - 🎥 **Background** showcasing Pakistani culture.
 - 🇵🇰 **Pakistan-themed images** – flag, Quaid-e-Azam, and national logo.
-- 🖱️ **Interactive animations** on hover and click.
 - 🌟 **Smooth CSS animations** and transitions.
-- 📱 **Fully responsive** design for desktop and mobile.
 
 ## 🛠️ Technologies Used
 - **HTML5** – Structure and content.
